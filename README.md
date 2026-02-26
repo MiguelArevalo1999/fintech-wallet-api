@@ -318,4 +318,4 @@ CREATE TABLE audit_log (
 ## 👤 Author
 
 **Miguel Arévalo** — Senior Backend Software Engineer  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/miguel-arevalo99/) · [GitHub](https://github.com/MiguelArevalo1999)
